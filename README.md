@@ -30,3 +30,7 @@ If you find bugs or would like to suggest features, join my bot development serv
 
 ## Self-Hosting
 Self-hosting your own copy of this bot is not supported; the source code is provided here so users and other bot developers can see how the bot functions. No help will be provided for editing, compiling, or building any code in this repository, and any changes must be documented as per the [license](https://github.com/jagrosh/GiveawayBot/blob/master/LICENSE).
+
+## Changes
+1. Steam key support.
+2. Giveaway delivery support.
